@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![logo](https://github.com/saumyabansal-cs22/saumyabansal-cs22/blob/main/git%20poster.png)
 <h1 align="center">Hi 👋, I'm Saumya Bansal</h1>
 <h3 align="center">A passionate web developer</h3>
 <img src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" alt="" align ="right" width="400">
