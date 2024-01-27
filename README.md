@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ![logo](https://github.com/saumyabansal-cs22/saumyabansal-cs22/blob/main/git%20poster.png)
 <h1 align="center">Hi 👋, I'm Saumya Bansal</h1>
 <h3 align="center">A passionate web developer</h3>
-<img src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif" alt="" align ="right" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="" align ="right" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyabansal-cs22&label=Profile%20views&color=0e75b6&style=flat" alt="saumyabansal-cs22" /> </p>
 
